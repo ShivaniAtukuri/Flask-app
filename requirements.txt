@@ -3,5 +3,5 @@ Werkzeug==2.3.7
 tensorflow==2.13.0
 numpy==1.24.2
 scikit-image==0.21.0
-gevent==23.1.1
-gunicorn==21.2.0
+gevent==23.9.1
+gunicorn==20.1.0
